@@ -1,4 +1,10 @@
 package com.company.Impl;
 
-public class AdministratorCreatorImpl {
+import com.company.Untilty.AdministratorCreator;
+
+public class AdministratorCreatorImpl implements AdministratorCreator {
+    @Override
+    public String generateAdministrator() {
+        return null;
+    }
 }

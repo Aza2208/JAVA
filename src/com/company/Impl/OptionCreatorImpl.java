@@ -1,4 +1,10 @@
 package com.company.Impl;
 
-public class OptionCreatorImpl {
+import com.company.Untilty.OptionCreator;
+
+public class OptionCreatorImpl implements OptionCreator {
+    @Override
+    public String CreateOptions() {
+        return null;
+    }
 }

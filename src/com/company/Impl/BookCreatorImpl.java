@@ -1,4 +1,13 @@
 package com.company.Impl;
 
-public class BookCreatorImpl {
+import com.company.Books;
+import com.company.Untilty.BookCreator;
+
+import java.util.List;
+
+public class BookCreatorImpl implements BookCreator {
+    @Override
+    public List<Books> generateBooks() {
+        return null;
+    }
 }

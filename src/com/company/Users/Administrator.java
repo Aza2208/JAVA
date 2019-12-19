@@ -1,4 +1,4 @@
 package com.company.Users;
 
-public class Administrator {
+public class Administrator extends User {
 }
