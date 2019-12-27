@@ -41,8 +41,8 @@ public class StudentHelperImpl implements StudentHelper {
         student3.setAdress(" Talas region, c.Talas ");
 
         Student student4 = new Student();
-        student4.setFirstName("Rashid");
-        student4.setLastName("Vasilyev");
+        student4.setFirstName("Rapkat");
+        student4.setLastName("Baudunov");
         student4.setPhoneNumber(" 0771001352 ");
         student4.setStudyAdress(" KNU ");
         student4.setGroup(" Bank worker ");
