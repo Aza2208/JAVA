@@ -1,6 +1,6 @@
-package com.company;
+package com.company.Book;
 
-public class Books {
+public class Book {
     private String bookName;
     private String authorName;
 
